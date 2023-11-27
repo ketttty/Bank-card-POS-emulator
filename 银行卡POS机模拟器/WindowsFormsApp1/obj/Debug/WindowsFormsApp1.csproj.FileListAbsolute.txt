@@ -1,0 +1,14 @@
+C:\Users\Liurunxin\Desktop\c#\实验报告\银行卡POS机模拟器\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Liurunxin\Desktop\c#\实验报告\银行卡POS机模拟器\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Liurunxin\Desktop\c#\实验报告\银行卡POS机模拟器\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Liurunxin\Desktop\c#\实验报告\银行卡POS机模拟器\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Liurunxin\Desktop\c#\实验报告\银行卡POS机模拟器\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Liurunxin\Desktop\c#\实验报告\银行卡POS机模拟器\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Liurunxin\Desktop\c#\实验报告\银行卡POS机模拟器\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Liurunxin\Desktop\c#\实验报告\银行卡POS机模拟器\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Liurunxin\Desktop\c#\实验报告\银行卡POS机模拟器\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Liurunxin\Desktop\c#\实验报告\银行卡POS机模拟器\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Liurunxin\Desktop\c#\实验报告\银行卡POS机模拟器\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Liurunxin\Desktop\c#\实验报告\银行卡POS机模拟器\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Liurunxin\Desktop\c#\实验报告\银行卡POS机模拟器\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Liurunxin\Desktop\c#\实验报告\银行卡POS机模拟器\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
